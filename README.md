@@ -1,3 +1,3 @@
-# Star Wars Survey
+# Car Sales Predictions
 
-In this project I examine some interesting insights about fans of the Star Wars/Trek movies/franchise.
+In this project I predict car sales using a linear regression model
